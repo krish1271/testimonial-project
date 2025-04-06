@@ -4,32 +4,32 @@
         {
             "id":1,
             "name":"krishna",
-            "testimonial":"nice one",
-            "image": "https://th.bing.com/th/id/OIP.YQGwtpOGecZajkbh2HMMGAHaHa?w=201&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            "testimonial":"Very nice product and fabric thanks",
+            "image": "https://th.bing.com/th/id/OIP.Y-l29lwKCZwn5GfE3c9z-AHaLH?w=204&h=306&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         },
         {
             "id":2,
-            "name":"person 2",
-            "testimonial":"i love this product",
-            "image": "https://th.bing.com/th/id/OIP.Tv3oG-Is7dcMNcysxIVwLAHaHa?w=195&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            "name":"vijay",
+            "testimonial":"This product is good it glowing my skin day by day i am recommend to everyone use this product",
+            "image": "https://th.bing.com/th/id/OIP.x_9jp-XNe6UoHFr5xQhL9QHaLH?w=208&h=305&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         },
         {
             "id":3,
-            "name":"person 3",
-            "testimonial":"i like it",
-            "image": "https://th.bing.com/th/id/OIP.EAzMf4436BdR-LVn7u_TOAHaJ4?w=148&h=198&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            "name":"sanjay",
+            "testimonial":"I love all my purchases from them. Delivery timeline is okay but their return and exchange is superb ",
+            "image": "https://th.bing.com/th/id/OIP.YIre5HGHiqBa7DCmrF4KwwHaJQ?w=208&h=260&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         },
         {
             "id":4,
-            "name":"person 4",
-            "testimonial":"it looks good",
-            "image": "https://th.bing.com/th/id/OIP.wZo2tBby5SZMmCGQN3W3bAHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            "name":"mani",
+            "testimonial":"Great platform for shopping, amazing service by staff with full precautions method, try it out you won't regret!!!!",
+            "image": "https://th.bing.com/th/id/OIP.hsn3jsx2zlphzFAG2owzKAHaHa?w=208&h=208&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         },
         {
             "id":5,
             "name":"tamil",
-            "testimonial":"hello",
-            "image": "https://th.bing.com/th/id/OIP.Xm1EXmPOVQQajFrYh3F_WAHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+            "testimonial":"Better for your outfits and this site never delivered fake products",
+            "image": "https://th.bing.com/th/id/OIP.x9x0GylTLDAFGSdc0lV3WgHaJt?w=208&h=273&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         }
 ]
 
